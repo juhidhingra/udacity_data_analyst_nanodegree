@@ -1,4 +1,4 @@
-model,displ,cyl,trans,drive,fuel,sales_area,stnd,underhood_id,veh_class,air_pollution_score,fe_calc_appr,city_mpg,hwy_mpg,cmb_mpg,unadj_cmb_mpg,greenhouse_gas_score,smartway
+model,displ,cyl,trans,drive,fuel,cert_region,stnd,underhood_id,veh_class,air_pollution_score,fe_calc_appr,city_mpg,hwy_mpg,cmb_mpg,unadj_cmb_mpg,greenhouse_gas_score,smartway
 ACURA MDX,3.7,(6 cyl),Auto-S5,4WD,Gasoline,CA,U2,8HNXT03.7PKR,SUV,7,Drv,15,20,17,22.0527,4,no
 ACURA MDX,3.7,(6 cyl),Auto-S5,4WD,Gasoline,FA,B5,8HNXT03.7PKR,SUV,6,Drv,15,20,17,22.0527,4,no
 ACURA RDX,2.3,(4 cyl),Auto-S5,4WD,Gasoline,CA,U2,8HNXT02.3DKR,SUV,7,Drv,17,22,19,24.1745,5,no
